@@ -1,0 +1,1 @@
+This repo contains the different tutorials I followed in order to become profecient with Django.
